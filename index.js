@@ -5,6 +5,6 @@ function zhou(){
   console.log('周文龙');
   console.long('周文龙改的！');
 }
-function zhu(){
-  console.log('此函数原名为zhu');
+function zhou(){
+  console.log('此函数原名为zhou');
 }
